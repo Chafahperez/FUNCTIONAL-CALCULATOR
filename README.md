@@ -19,15 +19,4 @@ A responsive working calculator built using only:
 
 Open `index.html` in a browser.
 
-## GitHub Pages
 
-1. Create a GitHub repository, for example `calculator`.
-2. Upload `index.html`, `style.css`, `script.js`, and `README.md`.
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)`.
-6. Save and wait for GitHub Pages to deploy.
-
-Your page will normally be available at:
-
-`https://YOUR-USERNAME.github.io/calculator/`
